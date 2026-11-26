@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log
+*.log
+npm-debug.log*
+
+# Dependensi lokal
+node_modules/
+
+# Arsip sementara
+*.zip
+*.rar
+*.7z
